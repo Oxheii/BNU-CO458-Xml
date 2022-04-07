@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="traveldiaries.xslt"?>
+<!--Richard Ochei | 22136351 -->
+<Diary>
+	<Entry>
+		<Date> 10/08/2001 </Date>
+		<Title> Life in Spain </Title>
+		<Location> Spain, Madrid </Location>
+		<Author> Richard Ochei</Author>
+		<Account> 1 </Account>
+		<Descripton>
+			Life in Spain was brilliant and well cultured country!, Spain is a country located in southwestern Europe on the Iberian Peninsula to the south of France and Andorra and to the east of Portugal. It has coastlines on the Bay of Biscay (a part of the Atlantic Ocean) and the Mediterranean Sea.>
+		</Descripton>
+		<Image>https://cdn.contexttravel.com/image/upload/c_fill,q_60,w_2600/v1555940004/production/city/hero_image_16_1555940004.jpg</Image>
+	</Entry>
+
+	<Entry>
+		<Date> 14/02/2008 </Date>
+		<Title> Life in Mexico </Title>
+		<Location> Mexico, San Jualio </Location>
+		<Author> Richard Ochei</Author>
+		<Account> 2 </Account>
+		<Descripton>
+			Life in Mexico was brilliant and well cultured country!, Mexico is a land of extremes, with high mountains and deep canyons in the center of the country, sweeping deserts in the north, and dense rain forests in the south and east. Mountains cover much of Mexico.>
+		</Descripton>
+		<Image>https://cdn.getyourguide.com/img/location/5c9f29710b6f9.jpeg/88.jpg</Image>
+	</Entry>
+
+	<Entry>
+		<Date> 23/10/2014 </Date>
+		<Title> London Lifestyle </Title>
+		<Location> United Kingdom, London </Location>
+		<Author> Richard Ochei</Author>
+		<Account> 3 </Account>
+		<Descripton>
+			Londons Lifestyle and city were amazing!, London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations.
+		</Descripton>
+		<Image>https://i.natgeofe.com/n/4def1048-f5e5-4973-ad3a-e188a97d363f/regents-street-london-england.jpg</Image>
+	</Entry>
+
+	<Entry>
+		<Date> 10/04/2022 </Date>
+		<Title> Action in Tokyo </Title>
+		<Location> Japan, Tokyo </Location>
+		<Author> Richard Ochei</Author>
+		<Account> 4 </Account>
+		<Descripton>
+			The Action that had my jaw dropping!, Tokyo is the administrative, cultural, financial, commercial, and educational centre of Japan and the focus of an extensive urban complex that includes Kawasaki and Yokohama. Attractions include the Imperial Palace, encircled by stone-walled moats and broad gardens, and numerous temples and shrines.>
+		</Descripton>
+		<Image>https://cdn.britannica.com/12/20312-050-5B87F001/Department-store-complex-shopping-district-ward-Shibuya.jpg</Image>
+	</Entry>
+
+</Diary>

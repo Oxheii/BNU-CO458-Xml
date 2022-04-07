@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CV.xslt"?>
+
+<CV xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="CV.xsd">
+  <PersonalDetails>
+    <Name> Richard </Name>
+    <Email>Richardochei@Icloud.com</Email>
+    <Phone>07000000000</Phone>
+    <Photo>https://static.fandomspot.com/images/01/11703/25-jason-ozuma-fighting-spirit-anime.jpg</Photo>
+  </PersonalDetails>
+
+  <WorkExp>
+    <Job>
+      <Start> 2016 </Start>
+      <End>2018</End>
+      <Company>Argos</Company>
+      <Description>====</Description>
+      <Duties>Customer Service Advisor</Duties>
+    </Job>
+	  <Job>
+		  <Start> 2018 </Start>
+		  <End>2020</End>
+		  <Company>Marks and Spencer</Company>
+		  <Description>====</Description>
+		  <Duties>Team Member</Duties>
+	  </Job>
+	  <Job>
+		  <Start>2020</Start>
+		  <End>2021</End>
+		  <Company>Co Operative</Company>
+		  <Description>====</Description>
+		  <Duties>Team Leader</Duties>
+	  </Job>
+  </WorkExp>
+
+  <Education>
+    <Insitution name="Crawley College">
+      <Subjects>
+        <Subject>
+			<Start>2016</Start>
+			<End>2020</End>
+          <Name> Informational Technology </Name>
+          <level>BTEC</level>
+          <Grade>Level 2</Grade>
+        </Subject>
+        <Subject>
+			<Start>2016</Start>
+			<End>2020</End>
+          <Name> Informational Technology </Name>
+          <level>BTEC</level>
+          <Grade>Level 3</Grade>
+        </Subject>
+      </Subjects>
+    </Insitution>
+
+	  <Insitution name="Buckinghamshire New University">
+		  <Subjects>
+			  <Subject>
+				  <Start>2021</Start>
+				  <End>2024</End>
+				  <Name>Computing and Web Development</Name>
+				  <level>Batchelors Degree</level>
+				  <Grade>NULL</Grade>
+			  </Subject>
+		  </Subjects>
+	  </Insitution>
+  </Education>
+
+  <Languages>
+    <Language>
+      <Name> English </Name>
+      <Fluency> Fluent </Fluency>
+    </Language>
+    <Language>
+      <Name> Spanish </Name>
+      <Fluency> Fluent </Fluency>
+    </Language>
+  </Languages>
+
+  <Skills>
+    <Skill>
+      <Name>Front-End Development</Name>
+    </Skill>
+    <Skill>
+      <Name>XML</Name>
+    </Skill>
+	  <Skill>
+		  <Name>Photoshop</Name>
+	  </Skill>
+  </Skills>
+
+  <Hobbies>
+    <Hobby>
+      <Name> Boxing </Name>
+    </Hobby>
+	  <Hobby>
+		  <Name> Gym </Name>
+	  </Hobby>
+	  <Hobby>
+		  <Name> Gaming </Name>
+	  </Hobby>
+  </Hobbies>
+
+</CV>

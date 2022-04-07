@@ -1,0 +1,22 @@
+﻿body {
+    margin: auto;
+    background-color: dcd6f7;
+    font-family:Arial;
+}
+
+h2 {
+    font-family: 'Comic Sans MS';
+    text-align: center;
+    background-color: dcd6f7;
+    margin:auto;
+}
+
+th {
+    background-color: 424874;
+    color: d6e5e3;
+    font-family:'Comic Sans MS';
+}
+
+td{
+    background-color:white;
+}
